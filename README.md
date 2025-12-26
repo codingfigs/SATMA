@@ -40,13 +40,9 @@ Licensed access to 18+ statistical techniques including:
 - PCA, EFA, CFA
 - And more...
 
-## 🐛 Bug Fixes
-
-- Fixed conceptual hierarchies showing only "co-occur" relationships
-- Resolved license feature structure inconsistencies between components
-- Fixed network diagram node overlap issues
-- Corrected admin password to "SATMA2025Admin"
-- Fixed backward compatibility for legacy 2-key license format
+## Contact
+contact@codingfigs.com
+kamakshaiah.m@codingfigs.com
 
 ## 📦 Installation
 
