@@ -20,11 +20,7 @@ This is the first official release of SATMA (formerly SAMOA), a comprehensive de
 - **Improved Network Visualization**: Fixed overlapping nodes with optimized spacing (k=2.5, 100 iterations) and color-coded relationship type labels
 
 ### 🔐 Comprehensive License Management System
-- **4 License Types**:
-  - **Trial**: 30-day full access, auto-converts to Basic on expiry
-  - **Standard**: Time-limited full access, retains menus + stats after expiry
-  - **Perpetual**: Unlimited full access
-  - **Basic**: Menu access only (expired trial state)
+
 - **Granular Feature Control**: 3-tier permission system
   - 6 menu items
   - 18 statistical techniques
@@ -56,12 +52,6 @@ kamakshaiah.m@codingfigs.com
 2. Run installer
 3. Launch SATMA from Start Menu
 4. Enjoy 30-day trial with full access
-
-## 📝 Technical Notes
-
-- **NLTK Data**: The application includes all required NLP data (~50 MB) for tokenization, stopword removal, lemmatization, and POS tagging
-- **License Storage**: License files are stored in user's AppData directory with AES encryption
-- **Admin Access**: Use admin password "SATMA2025Admin" for license management
 
 ## 🙏 Known Issues
 
